@@ -32,7 +32,7 @@ This project delivers a complete end-to-end analytics solution for NYC taxi trip
 ## Data Visualizations & Analysis
 
 ### 1. Passenger Count Distribution
-![Passenger Count Distribution](images/passenger-distribution.png)
+![Passenger Count Distribution](images/newplot.png)
 
 **Key Insights:**
 - **64,508 single-passenger trips** dominate the dataset (60%+ of all rides)
@@ -41,7 +41,7 @@ This project delivers a complete end-to-end analytics solution for NYC taxi trip
 - **Business Impact**: Single-rider optimization should be the primary focus for fleet management
 
 ### 2. Trip Distance Distribution
-![Trip Distance Distribution](images/trip-distance-distribution.png)
+![Trip Distance Distribution](images/Distribution_of_Passenger_Count.png)
 
 **Key Insights:**
 - **Highly right-skewed distribution** with majority of trips under 10 miles
@@ -50,7 +50,7 @@ This project delivers a complete end-to-end analytics solution for NYC taxi trip
 - **Strategic Implication**: Fleet positioning should prioritize short-distance coverage
 
 ### 3. Temporal Demand Patterns
-![Pickup Patterns Heatmap](images/pickup-patterns-heatmap.png)
+![Pickup Patterns Heatmap](images/Pickup_patterns.png)
 
 **Key Insights:**
 - **Clear weekday vs weekend patterns** emerge from the heatmap analysis
@@ -60,7 +60,7 @@ This project delivers a complete end-to-end analytics solution for NYC taxi trip
 - **Operational Impact**: Dynamic pricing and driver allocation strategies
 
 ### 4. Trip Efficiency Analysis
-![Trip Duration vs Distance](images/trip-duration-distance.png)
+![Trip Duration vs Distance](images/Trip_duration_vs_Distance.png)
 
 **Key Insights:**
 - **Strong positive correlation** between distance and duration (R² > 0.7)
@@ -69,7 +69,7 @@ This project delivers a complete end-to-end analytics solution for NYC taxi trip
 - **Performance Metric**: Average speed calculation enables driver performance tracking
 
 ### 5. Hourly Demand Forecasting
-![Uber Rides by Hour](images/hourly-rides-pattern.png)
+![Uber Rides by Hour](images/Uber_Rides_by_Hour_of_Day.png)
 
 **Key Insights:**
 - **Bimodal distribution** with morning (7-9 AM) and evening (6-8 PM) peaks
@@ -78,7 +78,7 @@ This project delivers a complete end-to-end analytics solution for NYC taxi trip
 - **Resource Planning**: Peak hour surge pricing and driver incentive optimization
 
 ### 6. Vendor Performance Analytics
-![Vendor Comparison](images/vendor-performance-comparison.png)
+![Vendor Comparison](images/Vendor_Performance_Comparison.png)
 
 **Key Insights:**
 - **Vendor 1**: Higher average trip distance (3.9 miles) but lower duration efficiency
